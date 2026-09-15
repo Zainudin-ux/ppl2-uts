@@ -1,4 +1,5 @@
   // 1. Logika Toggle Menu Mobile
+alert('terkoneksi')
   const btn = document.getElementById('mobile-menu-btn');
   const menu = document.getElementById('mobile-menu');
 
